@@ -28,6 +28,5 @@ class RegistrationTest {
         $(withText("Успешно")).shouldBe(visible, Duration.ofSeconds(15));
 
     }
-
 }
 
